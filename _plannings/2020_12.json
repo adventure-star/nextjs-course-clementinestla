@@ -1,0 +1,306 @@
+{
+"label": "décembre",
+"color":"blue",
+"planning" : [
+    {
+      "day": 15,
+      "events": [
+        {
+          "type": "access libre",
+          "start": "10h00",
+          "end": "12h00",
+          "label": "5€ l'heure",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        },
+        {
+          "type": "projet libre",
+          "start": "17h30",
+          "end": "19h30",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "events": [
+        {
+          "type": "cours ados",
+          "start": "13h15",
+          "end": "14h30"
+        },
+        {
+          "type": "atelier \"FUROSHIKI\" emballage cadeau zéro déchet",
+          "start": "15h00",
+          "end": "15h30",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        },
+        {
+          "type": "cours ados",
+          "start": "17h15",
+          "end": "18h30"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "events": [
+        {
+          "type": "access libre",
+          "start": "10h00",
+          "end": "14h00",
+          "label": "5€ l'heure",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        },
+        {
+          "type": "projet libre",
+          "start": "14h00",
+          "end": "16h00",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "events": [
+        {
+          "type": "cours particulier",
+          "start": "9h00",
+          "end": "12h00"
+        },
+        {
+          "type": "cours adultes",
+          "start": "18h15",
+          "end": "19h30"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "events": [
+        {
+          "type": "cours adultes",
+          "start": "10h00",
+          "end": "12h30"
+        },
+        {
+          "type": "atelier \"FUROSHIKI\" emballage cadeau zéro déchet",
+          "start": "12h45",
+          "end": "13h15",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "events": []
+    },
+    {
+      "day": 21,
+      "events": [
+        {
+          "type": "stage couture enfants",
+          "start": "10h45",
+          "end": "12h00",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        },
+        {
+          "type": "stage couture ados",
+          "start": "13h30",
+          "end": "15h15",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "events": [
+        {
+          "type": "stage couture enfants",
+          "start": "10h45",
+          "end": "12h00",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        },
+        {
+          "type": "stage couture ados",
+          "start": "13h30",
+          "end": "15h15",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "events": [
+        {
+          "type": "stage couture enfants",
+          "start": "10h45",
+          "end": "12h00",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        },
+        {
+          "type": "stage couture ados",
+          "start": "13h30",
+          "end": "15h15",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "events": [
+        {
+          "type": "projet libre",
+          "start": "10h00",
+          "end": "12h00",
+          "label": "choose",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "events": []
+    },
+    {
+      "day": 26,
+      "events": [
+        {
+          "type": "projet libre",
+          "start": "14h00",
+          "end": "16h00",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "events": [
+        {
+          "type": "projet libre",
+          "start": "10h00",
+          "end": "12h00",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "events": [
+        {
+          "type": "stage couture enfants",
+          "start": "10h45",
+          "end": "12h00",
+          "participants": {
+            "max": 4,
+            "booked": "1"
+          }
+        },
+        {
+          "type": "stage couture ados",
+          "start": "13h30",
+          "end": "15h15",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "events": [
+        {
+          "type": "stage couture enfants",
+          "start": "10h45",
+          "end": "12h00",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        },
+        {
+          "type": "stage couture ados",
+          "start": "13h30",
+          "end": "15h15",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        },
+        {
+          "type": "cours particulier",
+          "start": "15h30",
+          "end": "18h30"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "events": [
+        {
+          "type": "stage couture enfants",
+          "start": "10h45",
+          "end": "12h00",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        },
+        {
+          "type": "stage couture ados",
+          "start": "13h30",
+          "end": "15h15",
+          "participants": {
+            "max": 4,
+            "booked": 0
+          }
+        }
+      ]
+    }
+  ]
+}
